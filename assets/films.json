@@ -1,0 +1,105 @@
+[
+  {
+    "citation": "Mais on peut changer les choses en faisant différemment.\n- Ce qui est arrivé est arrivé. C’est une preuve qu’on a foi en les rouages du monde, c’est pas une excuse pour ne rien faire.\n- C’est le destin.\n- Nomme ça comme tu veux.\n- Tu le nommes comment toi ?\n- La réalité.",
+    "type": "Qui a dit",
+    "réponse": "Neils et le Protagoniste",
+    "date": 2020,
+    "titre": "Tenet"
+  },
+  {
+    "citation": "T’as un avenir dans le passé. Il y a des années pour moi, dans des années pour toi.",
+    "type": "Qui a dit",
+    "réponse": "Neils",
+    "date": 2020,
+    "titre": "Tenet"
+  },
+  {
+    "citation" : "Mais en voyant la petite Tiffany, j’me suis dit : Curieux une fillette blanche de 8 ans, au milieu du ghetto, des monstres tout autour en pleine nuit avec des bouquins de physiques quantiques, elle elle vient foutre la merde. Elle a pas plus de 8 ans, ces bouquins sont bien trop avancés pour elle. A mon avis, elle est pas claire la p’tite, ouais. Et j’aimerais sincèrement que vous m’lachiez un peu j’pensais bien faire. Ou j’dis pardon à la petite Tiffany ?",
+    "type": "Qui a dit",
+    "réponse": "James Darwell Edwards (Agent J)",
+    "date": 1997,
+    "titre": "Men in Black"
+  },
+  {
+    "citation": "Mais on est actuellement en train d’accomplir une mission très urgente, vous êtes pas d’accord avec moi ?\n- J’me souviens pas.\n- J’crois que j’ai deviné, je crois savoir pourquoi on est là.\n- C’est pourquoi ?\n- Pour s’marrer !\n- D-d’accord, ne repartons jamais, restons ici !",
+    "type": "Qui a dit",
+    "réponse": "Percy, Annabeth et Groover",
+    "date": 2010,
+    "titre": "Percy Jackson et le Voleur de Foudre"
+  },
+  {
+    "citation": "Vous savez, on peut trouver le bonheur même dans les moments les plus sombres. Il suffit de se souvenir d’allumer la lumière.",
+    "type": "Qui a dit",
+    "réponse": "Albus Dumbledore",
+    "date": 2004,
+    "titre":"Harry Potter et le Prisonier d'Azkaban"
+  },
+  {
+    "citation": "J’ai toujours été fier du talent que je possède pour tourner des phrases. Les mots sont, à mon avis qui n’est pas si humble, notre plus inépuisable source de magie. Ils peuvent à la fois infliger une blessure et porter remède.",
+    "type": "Qui a dit",
+    "réponse": "Albus Dumbledore",
+    "date": 2011,
+    "titre": "Harry Potter et les Reliques de la Mort 2"
+  },
+  {
+    "citation": "Ouvrez vos livres page 394.",
+    "type": "Qui a dit",
+    "réponse": "Severus Rogue",
+    "date": 2004,
+    "titre":"Harry Potter et le Prisonier d'Azkaban"
+  },
+  {
+    "citation": "Tant qu’il y aura des gens pour se souvenir du passé, il y aura toujours des gens incapables d’accepter ce qui pourrait être.",
+    "type": "Qui a dit",
+    "réponse": "Thanos",
+    "date": 2019,
+    "titre": "Avengers : Endgame"
+  },
+  {
+    "citation": "Qu’est-ce qu’il y a, peur de quelques éclairs ?\n- J’avoue que je ne raffole pas de ce qu’ils annoncent.",
+    "type": "Qui a dit",
+    "réponse": "Captain et Loki",
+    "date": 2012,
+    "titre": "Avengers"
+  },
+  {
+    "citation": "A quoi le sandwich ?\n- ...",
+    "type": "Complete",
+    "réponse": "A la fraise.",
+    "date": 2004,
+    "titre": "RRRrrrr!!!",
+    "personnages": "Pierre le Guérissologue et Pierre le Chef"
+  },
+  {
+    "citation": "Hier est derrière, demain est un mystère, ...",
+    "type": "Complete",
+    "réponse": "mais aujourd'hui est un cadeau, c'est pour cela qu'on l'appelle présent.",
+    "date": 2008,
+    "titre": "Kung Fu Panda",
+    "personnages": "Maitre Uugway"
+  },
+  {
+    "citation": "L’anonymat est votre nom, le silence votre langue natale. Vous ne faites plus parti du système, vous êtes au-dessus du système, au sommet, au-delà. Nous sommes eux, nous sommes ils, nous sommes ...",
+    "type": "Complete",
+    "réponse": "les Men in Black.",
+    "date": 1997,
+    "titre": "Men in Black",
+    "personnages": "Agent K"
+  },
+  {
+    "citation": "N'aie pas pitié des morts Harry, aie pitié des vivants. Et par-dessus tout ...",
+    "type": "Complete",
+    "réponse": "de tous ceux qui vivent sans amour.",
+    "date": 2011,
+    "titre": "Harry Potter et les Reliques de la Mort 2",
+    "personnages": "Albus Dumbledore"
+  },
+  {
+    "citation": "Je suis désormais inéluctable.\n- ...",
+    "type": "Complete",
+    "réponse": "Et ... moi je suis ... Iron Man.",
+    "date": 2019,
+    "titre": "Avengers : Endgame",
+    "personnages": "Thanos et Tony Stark"
+  }
+]
