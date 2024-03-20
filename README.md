@@ -1,16 +1,16 @@
-# say_the_line
+SayTheLine is a mobile for Android (didn't enable IOS yet). All the app is in French.
 
-A new Flutter project.
+# What is this app ?
 
-## Getting Started
+Based on a physical board game, SayTheLine is an app where you are to test your pop culture lines knowledge.  
+With 4 categories (Films, Series, Animes/Cartoons and Video Games) you'll be able to show your mastering of the pop culture.
 
-This project is a starting point for a Flutter application.
+# How to play ?
 
-A few resources to get you started if this is your first Flutter project:
+All 4 categories hve 2 modes : "Who said ?" and "Complete"  
+In the first one, you'll have to tell which characters (one or more) said the specified lines (or dialog)  
+In the second one, you'll have to complete the quote, but no need to tell who said it.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You got a set of hint to help you  
+The hints will always been displaid in the same order : date, title, (season and episode if any), (characters if any)  
+After all hints have been displaid, the answer will been showed up
